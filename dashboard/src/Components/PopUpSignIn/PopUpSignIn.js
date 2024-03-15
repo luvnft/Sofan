@@ -834,7 +834,7 @@ const PopUpSignIn = ({
               />
               {emailError && (
                 <p className="popupsignin-input-mail-error">
-                  Veuillez entrer une adresse e-mail valide.
+                  Valid email address
                 </p>
               )}
             </div>

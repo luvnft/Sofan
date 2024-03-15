@@ -250,7 +250,7 @@ function SecondStep({ setSecondStepValidated }) {
               />
               {emailError && (
                 <p className="second-step-form-error-message">
-                  Veuillez entrer une adresse e-mail valide.
+                  Valid email address
                 </p>
               )}
               {/* <input

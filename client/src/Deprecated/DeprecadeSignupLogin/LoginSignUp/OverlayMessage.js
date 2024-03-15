@@ -23,7 +23,7 @@ function OverlayMessage({ onClickRegister, onClickLogin }) {
             Si vous n'avez pas encore de compte, rejoignez-nous et commencez votre voyage.
           </p>
           <button className="ghost-register" id="register" onClick={onClickRegister}>
-            S'inscrire
+            Subscribe
             <i className="lni lni-arrow-right register"></i>
           </button>
         </div>

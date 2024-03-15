@@ -1225,10 +1225,10 @@ function Signup({
                     // onClick={verifyAllFieldAreFull}
                     className="signup-user-title"
                   >
-                    S'inscrire
+                    Subscribe
                   </div>
                   <div className="signup-user-title-description">
-                    Sign up now to connect with athletes and explore exclusive
+                    Subscribe to tap in with athletes and explore exclusive
                     NFT content within a vibrant community of sports
                     enthusiasts!
                   </div>
@@ -1248,7 +1248,7 @@ function Signup({
                   />
                   {emailError && (
                     <p className="signup-user-error-mail">
-                      Veuillez entrer une adresse e-mail valide.
+                      Valid email address
                     </p>
                   )}
 
@@ -1413,7 +1413,7 @@ function Signup({
                     </>
                   )}
                   <div className="signup-page-confirmation-accept-cgu">
-                    En cliquant sur "S'inscrire", vous acceptez nos 
+                    En cliquant sur "Subscribe", vous acceptez nos 
                     <a target="blank" href="cgu">
                       Conditions générales d'utilisation
                     </a>
@@ -1433,7 +1433,7 @@ function Signup({
                       alt="google logo"
                     />
                     <div className="signup-user-google-signup-text">
-                      S'inscrire avec Google
+                      Subscribe avec Google
                     </div>
                   </button>
                   {googleErrorGeneral && (

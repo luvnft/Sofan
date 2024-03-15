@@ -310,7 +310,7 @@ function App() {
                               </a>
                             </div>
                             <div className="app-sofan-block-access-title">
-                              Rejoignez la communauté Sofan !
+                             Join the LUV NFT FAN club!
                             </div>
                             <div className="app-sofan-block-access-img-and-button-container">
                               <div className="app-sofan-block-access-img-container">
@@ -659,7 +659,7 @@ function App() {
                   <div>help@sofan.app</div>
                 </a>{" "}
                 <div className="socials-network-waiting-page">
-                  Restez au courant en nous suivant sur les réseaux sociaux !
+                  Stay tapped in by following us on social media!
                   <div className="logo-socials-waiting-page">
                     {/* <svg
                       className="svg-socials-waiting-page"
@@ -669,7 +669,7 @@ function App() {
                     </svg> */}
                     <a
                       target="_blank"
-                      href="https://www.linkedin.com/company/sofan-app/"
+                      href="https://www.linkedin.com/company/71955818/"
                     >
                       <svg
                         className="svg-socials-waiting-page"
@@ -680,7 +680,7 @@ function App() {
                     </a>
                     <a
                       target="_blank"
-                      href="https://www.instagram.com/sofan_app/"
+                      href="https://www.instagram.com/luvnft/"
                     >
                       <svg
                         className="svg-socials-waiting-page"

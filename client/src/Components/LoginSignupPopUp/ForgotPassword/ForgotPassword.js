@@ -158,7 +158,7 @@ function ForgotPassword({ setIsForgotPasswordClicked }) {
 
                   {email && !isValidEmail && (
                     <p className="signup-user-error-mail">
-                      Veuillez entrer une adresse e-mail valide.
+                      Valid email address
                     </p>
                   )}
                 </div>

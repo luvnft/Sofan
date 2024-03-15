@@ -150,7 +150,7 @@ function SignUp(props) {
             </div>
           )}
         </div>
-        <button>S'inscrire</button>
+        <button>Subscribe</button>
         <span>ou utilisez votre compte</span>
         <div className="social-container">
           <a href="#" className="social">
@@ -164,7 +164,7 @@ function SignUp(props) {
           </a>
         </div>
         <div className="signup-page-confirmation-accept-cgu">
-          En cliquant sur "S'inscrire", vous acceptez nos 
+          En cliquant sur "Subscribe", vous acceptez nos 
           <a target="blank" href="cgu">Conditions générales d'utilisation</a>.
         </div>
       </form>

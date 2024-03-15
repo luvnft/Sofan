@@ -219,7 +219,7 @@ const Navbar = ({
                     <div className="navbar-wrap-2-subwrap-sign-up-button">
                       <Button
                         onClick={handleSignUpButtonClick}
-                        text="S'inscrire"
+                        text="Subscribe"
                         style={NavbarButtonStyle.signUp}
                         customMediaQueries={customNavbarButtonMediaQueries}
                       />
